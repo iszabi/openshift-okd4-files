@@ -26,5 +26,5 @@ platform:
 
 fips: false
 
-pullSecret: '{"auths":{"fake":{"auth": "bar"}}}' 
+pullSecret: '{"auths": ...}' #  Download from https://cloud.redhat.com/openshift/install/pull-secret
 sshKey: 'ssh-ed25519 AAAA...'   
