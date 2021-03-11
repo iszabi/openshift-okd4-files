@@ -4,5 +4,8 @@
 - Getting started with Openshift: https://docs.openshift.com/
 - Fedora CoreOS bare-metal bios image and sig files: https://getfedora.org/coreos/download?tab=metal_virtualized&stream=stable
 - Installing a cluster on bare metal: https://docs.okd.io/latest/installing/installing_bare_metal/installing-bare-metal.html#installation-bare-metal-config-yaml_installing-bare-metal
+- SDN with PfSense: https://www.netgate.com/solutions/pfsense-plus/
+__
+Created by Szabolcs Illes (szabolcs.illes@yahoo.com)
 
 
