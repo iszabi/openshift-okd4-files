@@ -1,4 +1,4 @@
-# Openshift OKD 4 files for deploying OKD 4.6 HA Cluster on VMWare vSphere
+# Openshift OKD 4 files for deploying OKD 4.7 HA Cluster on Baremetal / VMWare
 
 - Latest OKD release: https://github.com/openshift/okd/releases
 - Getting started with Openshift: https://docs.openshift.com/
